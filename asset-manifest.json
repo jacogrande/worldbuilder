@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/worldbuilder/static/css/main.5f361e03.chunk.css",
+    "main.js": "/worldbuilder/static/js/main.46d0349b.chunk.js",
+    "main.js.map": "/worldbuilder/static/js/main.46d0349b.chunk.js.map",
+    "runtime-main.js": "/worldbuilder/static/js/runtime-main.56b236a7.js",
+    "runtime-main.js.map": "/worldbuilder/static/js/runtime-main.56b236a7.js.map",
+    "static/js/2.d512deb7.chunk.js": "/worldbuilder/static/js/2.d512deb7.chunk.js",
+    "static/js/2.d512deb7.chunk.js.map": "/worldbuilder/static/js/2.d512deb7.chunk.js.map",
+    "index.html": "/worldbuilder/index.html",
+    "precache-manifest.97c50cddeb4ce58ce161bd3c17e83a9c.js": "/worldbuilder/precache-manifest.97c50cddeb4ce58ce161bd3c17e83a9c.js",
+    "service-worker.js": "/worldbuilder/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/worldbuilder/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d512deb7.chunk.js.LICENSE.txt": "/worldbuilder/static/js/2.d512deb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b236a7.js",
+    "static/js/2.d512deb7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.46d0349b.chunk.js"
+  ]
+}
