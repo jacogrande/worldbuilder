@@ -4,8 +4,8 @@ import { mapColors } from "./util/mapColors";
 import ColoredMapDisplay from "./ColoredMapDisplay";
 
 const NoiseMapDisplay = () => {
-  const [width, setWidth] = React.useState<number>(50);
-  const [height, setHeight] = React.useState<number>(50);
+  const [width, setWidth] = React.useState<number>(75);
+  const [height, setHeight] = React.useState<number>(75);
   const scale = 2;
 
   const noiseMapColors = [

@@ -5,7 +5,6 @@ import { PerlinNoise } from "./noise.js";
 // width : a number representing how many tiles wide the map will be
 // height : a number representing how many tiles long the map will be
 export const createNoiseMap = (width: number, height: number): number[][] => {
-  console.log("rendered");
   const perlin = new PerlinNoise();
   const noiseMap: number[][] = [];
 

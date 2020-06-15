@@ -42,7 +42,7 @@ PerlinNoise.prototype.mix = function (a, b, t) {
 };
 
 PerlinNoise.prototype.fade = function (t) {
-  return t * t * t * (t * (t * 6.0 - 15.0) + 10.0);
+  return t*t*t * t * (t * (t * 6.0 - 15.0) + 10.0);
 };
 
 // Classic Perlin noise, 3D version

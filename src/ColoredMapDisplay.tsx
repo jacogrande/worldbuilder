@@ -12,17 +12,17 @@ const ColoredMapDisplay = (props: IColoredMapDisplay) => {
   const canvasRef = React.useRef<HTMLCanvasElement>(null);
 
   const mapDisplayColors = [
+    "rgb(221, 219, 216)",
     "rgb(70, 52, 30)",
     "rgb(87, 67, 43)",
-    "rgb(70, 108, 46)",
     "rgb(103, 143, 77)",
     "rgb(142, 176, 121)",
     "rgb(231, 220, 174)",
+    "rgb(64, 163, 172)",
     "rgb(51, 140, 156)",
-    "rgb(51, 117, 156)",
+    "rgb(32, 112, 126)",
     "rgb(36, 99, 135)",
     "rgb(25, 88, 124)",
-    "rgb(15, 76, 110)",
     "rgb(9, 61, 91)",
     "rgb(6, 44, 66)",
   ];
